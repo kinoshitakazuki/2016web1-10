@@ -10,7 +10,7 @@ body{
 background-color:red;
 }
 }
-@media screen and (min-width:700px)and(max-width:980px){
+@media screen and (min-width:700px) and (max-width:980px){
 body{
 font-family: 'Noto Sans Japanese', sans-serif;
 background-color:black;
